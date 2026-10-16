@@ -40,3 +40,17 @@ Cada viernes: métricas de los últimos 7 días, mejores y peor pieza, aprendiza
 
 ### Resultado de experimentos anteriores
 - Ninguno (primera semana).
+
+### Programado para 26 oct – 1 nov (Metricool, autoPublish)
+| Día | IG + FB | LinkedIn | TikTok | Google Business |
+|---|---|---|---|---|
+| Lun 26 | 10:00 Lunes Fiscal IR-2 / Activos | 11:00 | 10:00 | 12:00 |
+| Mar 27 | (ya estaba) 12:00 Emergencias 02 Huracán | — (regla: no va) | 10:00 Huracán | — |
+| Mié 28 | 10:00 Carrusel «Prepara tu cierre de diciembre» (E2) | 11:00 PDF | 10:00 | 12:00 |
+| Jue 29 | 10:00 Academy: Diplomado Integral | 11:00 | 10:00 (contenido de marca) | 12:00 |
+| Sáb 31 | 10:00 Diagnóstico gratuito «Llega a diciembre…» | 11:00 | 10:00 (contenido de marca) | 12:00 |
+
+Vencimientos verificados: IR-2 y 1ra. cuota de Activos (cierre 30-jun-2026) el 28-oct; 2da. cuota de Activos (cierre 31-dic-2025) el 30-oct (calendario DGII 2026 y siemprealdia.co).
+
+### Guion de reel para el equipo · Vie 30 oct · Mito o Realidad
+«Si mi empresa tuvo pérdidas, no tengo que presentar el IR-2.» → Mito: la declaración jurada se presenta aunque el resultado sea pérdida. (0–2.4 s cortinilla · 2.4–6 s texto en pantalla · 6–25 s socio a cámara · 25–28.5 s «Síguenos para un dato fiscal cada semana» · 1.5 s cierre de marca.) Sirve para Instagram, Facebook, TikTok y YouTube Shorts.
