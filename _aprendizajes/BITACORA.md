@@ -100,3 +100,18 @@ Nota: el 22 oct a las 6:57 p. m. salió en TikTok un video «#1HourChallenge» (
 - TSS: pago dentro de los primeros 3 días hábiles → miércoles 4 de noviembre.
 - Sin vencimientos DGII del 2 al 8 nov. Próximos: IR-17 e ISC el martes 10; Formatos 606/607 y anticipos ISR el lunes 16 (el 15 cae domingo). Calendario DGII 2026 (siemprealdia.co).
 - Feriado del Día de la Constitución (vie 6) se traslada al lunes 9 (Ley 139-97; revistamercado.do).
+
+### Programado para 2–8 nov (Metricool, autoPublish)
+| Día | IG + FB | LinkedIn | TikTok (E3) | Google Business |
+|---|---|---|---|---|
+| Lun 2 | 10:00 Lunes Fiscal: TSS el mié 4 | 11:00 | 18:00 | 12:00 |
+| Mar 3 | 10:00 Emergencias 03 Incendio (movido de 12:00) | — (pasado a borrador) | 18:00 Incendio | — |
+| Mié 4 | 10:00 Carrusel «¿Ese gasto es deducible?» | 11:00 PDF | 18:00 | 12:00 |
+| Jue 5 | 10:00 Academy microlección inventarios (E4) | 11:00 | 18:00 (contenido de marca) | 12:00 |
+| Vie 6 | 10:00 Día de la Constitución | 11:00 | 18:00 | — |
+| Sáb 7 | 10:00 Diagnóstico «¿Quién revisó tus números?» | 11:00 | 18:00 (contenido de marca) | 12:00 |
+
+Tarea de comunidad: responder cada «DEDUCIBLE» del carrusel del 4 nov con la lista de los 5 requisitos (por DM).
+
+### Guion de reel para el equipo · Vie 6 nov · Mito o Realidad
+«Cualquier factura me sirve para deducir un gasto.» → Mito: necesitas un comprobante fiscal válido (NCF o e-CF) con crédito fiscal a nombre de tu RNC, y el gasto tiene que ser necesario para tu negocio. (0–2.4 s cortinilla · 2.4–6 s texto en pantalla «¿Mito o realidad?» · 6–24 s socio a cámara · 24–28 s «Guarda este video y síguenos para un dato fiscal cada semana» · 1.5 s cierre de marca.) Sirve para Instagram, Facebook, TikTok y YouTube Shorts.
