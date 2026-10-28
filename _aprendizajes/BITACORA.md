@@ -115,3 +115,9 @@ Tarea de comunidad: responder cada «DEDUCIBLE» del carrusel del 4 nov con la l
 
 ### Guion de reel para el equipo · Vie 6 nov · Mito o Realidad
 «Cualquier factura me sirve para deducir un gasto.» → Mito: necesitas un comprobante fiscal válido (NCF o e-CF) con crédito fiscal a nombre de tu RNC, y el gasto tiene que ser necesario para tu negocio. (0–2.4 s cortinilla · 2.4–6 s texto en pantalla «¿Mito o realidad?» · 6–24 s socio a cámara · 24–28 s «Guarda este video y síguenos para un dato fiscal cada semana» · 1.5 s cierre de marca.) Sirve para Instagram, Facebook, TikTok y YouTube Shorts.
+
+### Confirmaciones de Gilberto (28 oct)
+1. El video «#1HourChallenge» de TikTok (22 oct) es del equipo: cuenta como contenido propio en las métricas.
+2. El perfil de Google Business está verificado: las 0 vistas no se deben a la verificación. Seguir midiendo; si a fin de mes sigue en 0, probar publicaciones tipo «photo» u «oferta».
+3. Academy sigue sin fecha de cohorte: se mantiene «Pregunta por la próxima cohorte».
+4. El equipo ya está avisado para responder por DM cada «DEDUCIBLE» del 4 nov.
