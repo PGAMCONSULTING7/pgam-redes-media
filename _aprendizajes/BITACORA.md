@@ -121,3 +121,7 @@ Tarea de comunidad: responder cada «DEDUCIBLE» del carrusel del 4 nov con la l
 2. El perfil de Google Business está verificado: las 0 vistas no se deben a la verificación. Seguir midiendo; si a fin de mes sigue en 0, probar publicaciones tipo «photo» u «oferta».
 3. Academy sigue sin fecha de cohorte: se mantiene «Pregunta por la próxima cohorte».
 4. El equipo ya está avisado para responder por DM cada «DEDUCIBLE» del 4 nov.
+
+### Plan de aceleración aprobado (28 oct)
+Gilberto aprobó las 7 mejoras: video corto semanal, LinkedIn personal, invitaciones, reseñas en Google, guía de cierre a cambio del WhatsApp, pauta en Meta (17–30 nov) y colaboración con un aliado. Paso a paso, guiones, textos y metas al 29 nov: https://claude.ai/artifact/GTK4bH9CMCuV3QKc1YqtGm
+Cada viernes: dejar 2 guiones de video + 2–3 textos de LinkedIn personal para la semana siguiente; programar videos mié/vie 19:00; sumar al informe los indicadores de la sección «Cómo se mide».
