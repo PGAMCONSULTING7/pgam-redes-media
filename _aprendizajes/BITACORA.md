@@ -125,3 +125,68 @@ Tarea de comunidad: responder cada «DEDUCIBLE» del carrusel del 4 nov con la l
 ### Plan de aceleración aprobado (28 oct)
 Gilberto aprobó las 7 mejoras: video corto semanal, LinkedIn personal, invitaciones, reseñas en Google, guía de cierre a cambio del WhatsApp, pauta en Meta (17–30 nov) y colaboración con un aliado. Paso a paso, guiones, textos y metas al 29 nov: https://claude.ai/artifact/GTK4bH9CMCuV3QKc1YqtGm
 Cada viernes: dejar 2 guiones de video + 2–3 textos de LinkedIn personal para la semana siguiente; programar videos mié/vie 19:00; sumar al informe los indicadores de la sección «Cómo se mide».
+
+---
+
+## Viernes 30 de octubre de 2026 · Semana 2 (23–29 oct)
+
+**Contexto.** Semana de los experimentos E1 (IG/FB/TikTok a las 10:00, LinkedIn a las 11:00 desde el lun 26) y E2 («coméntalo del 1 al 5» en el carrusel del 28). Piezas: diagnóstico «¿claridad o dudas?» (sáb 24, aún a 12:00), Lunes Fiscal IR-2 (lun 26), emergencias 02 huracán (mar 27, 12:00 en IG/FB), carrusel cierre fiscal (mié 28), Academy Diplomado (jue 29). Datos de Metricool al 29–30 oct: las piezas del 28 y 29 aún acumulan. La semana 2–8 nov ya estaba programada desde el 23 oct; esta corrida programa **9–15 nov**.
+
+### Métricas (23–29 oct) vs. semana 1 (16–22 oct)
+
+| Red | Seguidores | Alcance / vistas | Interacciones | vs. semana 1 |
+|---|---|---|---|---|
+| Instagram | 1,315 (+40) | Alcance de feed 68 en 5 piezas (13.6 por pieza) | 7 me gusta · 0 comentarios · 0 guardados | Alcance por pieza 20 → 13.6 (−32 %); seguidores +27 → +40 |
+| Facebook | 25 (=) | Alcance 3 en 5 piezas | 4 reacciones | 10 → 3: sin distribución |
+| LinkedIn (página) | 32 (=) | 29 impresiones en 4 posts (IR-2: 19) | 2 me gusta · 2 clics · 1 compartido | 8 → 29 impresiones (×3.6) |
+| TikTok | 12 (+9) | 1,446 vistas en 5 posts (289 por post); 1,822 vistas totales en el período | 10 me gusta · 1 comentario · 1 compartido | 176 → 289 vistas por post (+64 %); seguidores 3 → 12 |
+| Google Business Profile | — | 0 vistas de publicaciones | — | Sigue en 0 tras 2 semanas |
+| YouTube | 18 (+2) | 28 vistas; 1 video publicado el 23 oct (no programado desde Metricool) | — | 1 → 28 vistas |
+
+### Mejores y peor
+1. **Lunes Fiscal IR-2 (lun 26) · TikTok 497 vistas (récord de la cuenta), LinkedIn 19 impresiones (la mejor de la página), IG 14.** Imagen única, fecha concreta, «esta semana es clave» para un público definido (cierre al 30 de junio).
+2. **Diagnóstico «¿Tus números te dan claridad o te dan dudas?» (sáb 24) · TikTok 465, IG 19 (la mejor de la semana), LinkedIn 9.** Titular en forma de pregunta directa + oferta simple en imagen única.
+- **Peor: carrusel «Prepara tu cierre de diciembre» (mié 28) · IG alcance 7, FB 0, LinkedIn 1, TikTok 169, 0 comentarios en todas las redes** pese al llamado E2. Tercer carrusel seguido por debajo de las piezas de imagen única en IG.
+
+### Aprendizajes
+1. **Imagen única con un mensaje concreto (fecha o pregunta) supera al carrusel y al flyer de precio.** Las 2 mejores son imágenes únicas; el carrusel y el Diplomado (IG 10, TikTok 163) quedan abajo.
+2. **Pedir comentarios no funciona todavía con esta audiencia.** E2 dio 0 comentarios en 4 redes; IG suma 3 semanas con 0 comentarios y 0 guardados. Hay que bajar la fricción (encuesta de un clic) o moverlo a DM con palabra clave, que el equipo ya atiende.
+3. **TikTok y LinkedIn crecen; IG y FB se estancan.** TikTok: +64 % vistas por post y seguidores ×4; LinkedIn: impresiones ×3.6 con la hora 11:00. IG pierde alcance por pieza; FB sin distribución; Google Business sigue en 0 → toca probar otro formato.
+
+### Resultado de experimentos anteriores
+- **E1 (hora).** IG a las 10:00: alcance medio 10.3 (lun 26, mié 28, jue 29) vs 18.5 de las piezas a 12:00 de la misma semana (sáb 24, mar 27) → **negativo para IG** (preliminar: las de 10:00 son más recientes). LinkedIn a las 11:00: Lunes Fiscal 19 impresiones vs 7 del Lunes Fiscal a las 8:00 (19 oct) → **positivo**. TikTok a las 10:00: 245 vistas medias vs 184 a 12:00 la semana anterior → **positivo**. Decisión: desde el 9 nov IG + FB vuelven a **12:00**, LinkedIn queda a **11:00**, TikTok a **10:00** (E3 a 18:00 corre del 2 al 8 nov y se compara el 6 y el 13 nov). La semana 2–8 nov sigue a 10:00 en IG/FB como segunda semana de E1.
+- **E2 («coméntalo del 1 al 5»).** **Fallido**: 0 comentarios en IG, FB, TikTok y LinkedIn; 0 guardados.
+- **E3 (TikTok 18:00)** y **E4 (Academy como microlección)** se publican del 2 al 8 nov: se evalúan el 6 y el 13 nov.
+
+### Experimentos para la semana 9–15 nov
+- **E5 · Encuesta nativa en LinkedIn** (mié 11, 11:00, 7 días): «¿Cuándo empieza tu empresa a preparar el cierre fiscal?». Control: media de impresiones de los posts de la página (29 en 4 posts esta semana; mejor 19). Métrica: impresiones y votos.
+- **E6 · Educativa en imagen única** («¿Mito o realidad? El IT-1 en cero», mié 11) en lugar de carrusel. Control: carruseles «5 descuidos» (21 oct), «cierre» (28 oct) y «deducibles» (4 nov). Métrica: alcance IG y vistas TikTok.
+- **E7 · Google Business tipo «photo»** (vie 13, imagen del diagnóstico) además de las publicaciones. Métrica: vistas de fotos vs 0 vistas de publicaciones (acordado el 28 oct si a fin de mes seguía en 0).
+
+### Correcciones operativas
+- LinkedIn tenía la serie de emergencias 04 (plan de emergencia) el mar 10 nov a las 8:00: pasada a borrador (regla del plan).
+- TikTok no tenía la pieza de emergencias 04: programada el mar 10 a las 10:00 (JPG nuevo en el repo).
+
+### Vencimientos verificados para el Lunes Fiscal del 9 nov
+- Lun 9: feriado del Día de la Constitución (calendario DGII 2026).
+- Mar 10: retenciones IR-17 e IR-3 (período octubre). Lun 16: Formatos 606/607/608/609 y anticipos del ISR (el 15 cae domingo). Vie 20: IT-1 e ISC. Fuentes: Calendario del contribuyente 2026 (dgii.gov.do) y siemprealdia.co (29 oct 2026).
+- Pendiente de confirmar con Gilberto: siemprealdia.co menciona el 15 nov como plazo de facturación electrónica (e-CF) para pequeños, micro y no clasificados (Aviso 06-26); no aparece en el calendario DGII. No se publicó.
+
+### Programado para 9–15 nov (Metricool, autoPublish)
+| Día | IG + FB | LinkedIn | TikTok | Google Business |
+|---|---|---|---|---|
+| Lun 9 | 12:00 Lunes Fiscal: retenciones el mar 10 | 11:00 | 10:00 | 12:00 |
+| Mar 10 | (ya estaba) 12:00 Emergencias 04 | — (pasado a borrador) | 10:00 Emergencias 04 | — |
+| Mié 11 | 12:00 Mito o Realidad: IT-1 en cero (E6) | 11:00 Encuesta cierre fiscal (E5) | 10:00 | 12:00 |
+| Jue 12 | 12:00 Academy: 3 números que mirar cada mes | 11:00 | 10:00 (contenido de marca) | 12:00 |
+| Vie 13 | — (video del equipo 19:00) | — | — | 12:00 foto (E7) |
+| Sáb 14 | 12:00 Diagnóstico «Faltan 7 semanas» | 11:00 | 10:00 (contenido de marca) | 12:00 |
+
+### Guiones de video para el equipo (mié 11 y vie 13, 19:00; IG, FB, TikTok y YouTube Shorts)
+**V1 · Mié 11 · Mito o Realidad: «Si no vendí nada, no declaro el ITBIS».** 0–2.4 s cortinilla · 2.4–5 s texto en pantalla «¿Mito o realidad?» · 5–22 s socio a cámara: «Mito. El IT-1 se presenta cada mes, aunque sea en cero. Declarar sin operaciones te mantiene al día y evita recargos. El de octubre vence el viernes 20 de noviembre.» · 22–27 s «Guárdalo y síguenos: un dato fiscal cada semana» · 1.5 s cierre de marca.
+**V2 · Vie 13 · «Faltan 7 semanas: 3 cosas que revisar hoy».** 0–2.4 s cortinilla · 2.4–5 s texto «7 semanas para cerrar el año» · 5–25 s socio a cámara contando con los dedos: conciliaciones bancarias al día; 606 y 607 coherentes con cada IT-1; plan para la toma física y los cobros · 25–29 s «¿Lo revisamos juntos? 20 minutos, sin costo. Escríbenos DIAGNÓSTICO» · 1.5 s cierre de marca.
+
+### Textos para LinkedIn personal de Gilberto (semana 9–15 nov)
+1. **Lun 9 o mar 10 (retenciones).** «Mañana vencen las retenciones de octubre (IR-17 e IR-3). Un hábito que recomiendo a las gerencias financieras: antes de declarar, cruzar las retenciones contra el registro de compras del mes. La mayoría de las diferencias que luego aparecen entre el IR-17 y el Formato 606 nacen ahí, y corregirlas a tiempo cuesta mucho menos que explicarlas después. ¿Cómo lo hacen en su empresa?»
+2. **Mié 11 (amplifica E5).** «Hoy lanzamos desde la página de PGAM Consulting una encuesta corta: ¿cuándo empieza tu empresa a preparar el cierre fiscal? Llevo años viendo que la calidad de un cierre se decide en octubre y noviembre, no en diciembre. Me interesa mucho su respuesta: el voto toma un clic.» (compartir la encuesta de la página)
+3. **Vie 13 (gestión).** «Tres números que pido mirar cada mes a los dueños de pymes que acompañamos: flujo de caja, margen bruto y cuentas por cobrar vencidas. No hace falta un tablero sofisticado; hace falta mirarlos siempre en la misma fecha y decidir con ellos. ¿Cuál es el que más les cuesta seguir?»
