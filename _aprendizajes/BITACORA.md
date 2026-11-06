@@ -256,3 +256,8 @@ Tarea de comunidad: responder por DM cada «CIERRE» (mié 18) y cada «DIAGNÓS
 1. **Lun 16.** «Hoy vencen los Formatos 606 y 607 de octubre. Un consejo que repito a cada equipo contable: antes de enviarlos, compárenlos con el IT-1 que van a declarar el viernes. Si el 606 y el IT-1 no cuentan la misma historia, la DGII lo va a notar en sus cruces. Cinco minutos de revisión hoy ahorran semanas de aclaraciones después.»
 2. **Mar 17 (amplifica E8).** «Publicamos desde la página de PGAM Consulting una guía corta con las 4 conciliaciones que reviso primero en cualquier cierre: bancos, cuentas por cobrar, cuentas por pagar e ITBIS. Si su equipo solo puede hacer una esta semana, que sea la bancaria. ¿Cuál les toma más tiempo a ustedes?» (compartir el PDF de la página)
 3. **Jue 19.** «Desde la auditoría, la toma física de inventario es donde más se nota si una empresa tiene control o solo tiene sistema. Fecha de corte clara, conteo en parejas y cada ajuste documentado: con eso, el inventario de diciembre deja de ser una sorpresa. ¿Ya tienen fecha para la suya?»
+
+### Añadido el 6 nov (a pedido de Gilberto)
+- **Video de la Primera Reunión de Socios y Gerentes** (90 s vertical, comprimido a 44 MB en `2026-11/reunion-socios/`): programado hoy a las 19:00 como reel en Instagram + Facebook, video en TikTok y LinkedIn, y video en la galería de Google Business. YouTube no se programó porque el equipo ya lo subió.
+- **Etiquetas confirmadas por Gilberto:** usar siempre #pgamconsulting #cmrcatering #ryk_organico_artesanal (C-M-R; confirmado el 6 nov).
+- 16 fotogramas seleccionados del video (8 destacados) entregados en ZIP para las carpetas «REUNION SOCIOS 26» y «REUNION SOCIOS 26\Destacados» de OneDrive.
