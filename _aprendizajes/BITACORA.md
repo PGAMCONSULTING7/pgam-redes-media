@@ -194,3 +194,65 @@ Cada viernes: dejar 2 guiones de video + 2–3 textos de LinkedIn personal para 
 ### Añadido el 31 oct (a pedido de Gilberto)
 - **Facturación electrónica (mar 3 nov):** IG + FB 12:00, LinkedIn 11:00, TikTok 12:00, Google 12:00. El 15 nov vence la prórroga e-CF para pequeños, micro y no clasificados; la DGII dice que no se extenderá (El Día 19 oct, Listín Diario 25 oct, eldigital 26 oct). Requisitos: Oficina Virtual activa, certificado digital, Facturador Gratuito o proveedor autorizado. Se añadió el recordatorio al Lunes Fiscal del 9 nov (IG + FB).
 - **Estados del RNC (vie 13 nov):** imagen única con 4 estados (activo, suspendido, cese temporal hasta 3 años, dado de baja), inspirada en una referencia que envió Gilberto. IG + FB 12:00, LinkedIn 11:00 (ángulo: verificar el RNC de proveedores), TikTok 10:00, Google 12:30. Fuentes: infografía «Conoce el RNC» de la DGII y siemprealdia.co (Norma 04-21).
+
+---
+
+## Viernes 6 de noviembre de 2026 · Semana 3 (30 oct–5 nov)
+
+**Contexto.** Segunda semana de E1 en IG/FB (10:00) y semana de E3 (TikTok 18:00) y E4 (Academy como microlección). Piezas: diagnóstico «Faltan dos meses» (sáb 31), Lunes Fiscal TSS (lun 2), emergencias 03 incendio (mar 3), facturación electrónica e-CF (mar 3, 12:00, añadida a pedido), carrusel «¿Ese gasto es deducible?» (mié 4), Academy «3 señales de inventario» (jue 5). Datos Metricool al 5–6 nov (las piezas del 4 y 5 aún acumulan). La semana 9–15 nov ya estaba programada; esta corrida programa **16–22 nov**.
+
+### Métricas (30 oct–5 nov) vs. semana 2 (23–29 oct)
+
+| Red | Seguidores | Alcance / vistas | Interacciones | vs. semana 2 |
+|---|---|---|---|---|
+| Instagram | 1,461 (+146 desde 1,315; 154 ganados, 15 perdidos) | Alcance de feed 104 en 6 piezas (17.3 por pieza) · alcance de cuenta 124 · vistas 323 | 12 me gusta · 0 comentarios · 0 guardados · 0 compartidos · 3 seguidores desde posts | Alcance por pieza 13.6 → 17.3 (+27 %); seguidores +40 → +146 |
+| Facebook | 25 (=) | Alcance 0 en 6 piezas | 0 | 3 → 0: sin distribución |
+| LinkedIn (página) | 35 (+3) | 45 impresiones en 5 posts (9 por post) | 3 reacciones · 12 clics · 2 compartidos · 16 interacciones | 29 → 45 impresiones (+55 %); clics 2 → 12 |
+| TikTok | 16 (+4) | 1,255 vistas en 5 posts (251 por post) | 8 me gusta · 0 comentarios · 0 compartidos | 289 → 251 vistas por post (−13 %) |
+| Google Business Profile | — | 0 vistas de publicaciones (5 publicadas) | — | 3 semanas en 0 |
+| YouTube | 19 (+1) | 51 vistas, sin videos nuevos | — | 28 → 51 vistas |
+
+Fallo operativo: la pieza de emergencias 03 (incendio) del mar 3 **no aparece publicada en TikTok** (programada a las 18:00); las otras 5 sí salieron. Revisar en el planificador de Metricool si quedó con error.
+
+### Mejores y peor
+1. **Lunes Fiscal TSS (lun 2) · IG alcance 30 y 9 me gusta (la mejor de la semana y de la cuenta en me gusta), 2 seguidores nuevos; TikTok 473 vistas; LinkedIn 14.** Cuarta semana seguida en que el Lunes Fiscal con fecha concreta es top en IG, TikTok y LinkedIn.
+2. **Academy microlección «3 señales de inventario» (jue 5) · TikTok 360 vistas (+135 % vs 153 del flyer de precio del 22 oct), LinkedIn 6 impresiones con 1 clic y 1 compartido.** Valor primero, curso al final: funciona en TikTok y LinkedIn; en IG quedó en 7 de alcance (vs 11 del control).
+- **Peor: carrusel «¿Ese gasto es deducible?» (mié 4) · IG alcance 5, 0 interacciones; TikTok 72 vistas (la peor de la cuenta); 0 «DEDUCIBLE» en comentarios.** Cuarto carrusel seguido al fondo en IG y TikTok. **Excepción:** como PDF en LinkedIn fue la mejor pieza de la página (18 impresiones, 11 clics, 1 compartido).
+
+### Aprendizajes
+1. **El carrusel no funciona en IG ni en TikTok, pero sí como documento PDF en LinkedIn.** Desde ahora: imagen única en IG/FB/TikTok/Google y el carrusel solo como PDF en LinkedIn.
+2. **TikTok rinde mejor a las 18:00** (E3: 302 vistas medias en 3 posts vs 161 a las 10:00 esta semana y 245 la anterior). La caída a 251 por post la explica el carrusel (72).
+3. **Pedir comentarios sigue sin funcionar** (4 semanas, 0 comentarios en IG con E2 y con «DEDUCIBLE»). Instagram crece en seguidores (+146) pero no conversa: el llamado se mueve a mensaje directo con palabra clave y la conversación debe salir de los videos del equipo y del LinkedIn personal.
+
+### Resultado de experimentos anteriores
+- **E1 (IG/FB 10:00, 2.ª semana).** IG a las 10:00: 17.4 de alcance medio (5 piezas) vs 17 de la única a 12:00 (e-CF) → **sin diferencia**; en la semana 2 la 10:00 perdía (10.3 vs 18.5). Se mantiene la decisión: IG/FB a 12:00 desde el 9 nov.
+- **E3 (TikTok 18:00).** **Positivo**: 302 vistas medias vs 161–245 a las 10:00. Desde el 16 nov TikTok pasa a 18:00 (la semana 9–15 ya programada a las 10:00 queda como último control).
+- **E4 (Academy como microlección).** **Positivo en TikTok (+135 %) y LinkedIn (clic + compartido); neutro en IG.** Se adopta el formato para Academy.
+- **E5 (encuesta LinkedIn, mié 11), E6 (Mito o Realidad imagen única, mié 11) y E7 (Google tipo foto, vie 13)** se publican la semana 9–15: se evalúan el 13 y el 20 nov.
+
+### Experimentos para la semana 16–22 nov
+- **E8 · Misma pieza educativa en dos formatos.** «4 conciliaciones antes de diciembre»: carrusel PDF de 4 páginas solo en LinkedIn (mar 17, 11:00) e imagen única en IG/FB/TikTok/Google (mié 18). Control: deducibles (PDF LinkedIn 18 impresiones/11 clics; carrusel IG 5 de alcance; TikTok 72). Métrica: clics en LinkedIn; alcance IG y vistas TikTok.
+- **E9 · Instagram + Facebook a las 18:00** (mié 18 y jue 19; segundo pico de Metricool, ~4,900–5,100 mar–jue) frente a 12:00 (lun 16 y sáb 21, y la semana 9–15). Métrica: alcance medio por pieza en IG.
+
+### Vencimientos verificados para el Lunes Fiscal del 16 nov
+- Lun 16: Formatos 606/607 de octubre y anticipos del ISR (el 15 cae domingo). Vie 20: IT-1 e ISC. Sin feriados en la semana. Fuente: Calendario del contribuyente 2026 (dgii.gov.do) y siemprealdia.co (verificado el 30 oct; sin cambios).
+
+### Programado para 16–22 nov (Metricool, autoPublish)
+| Día | IG + FB | LinkedIn | TikTok | Google Business |
+|---|---|---|---|---|
+| Lun 16 | 12:00 Lunes Fiscal: hoy 606/607 y anticipos | 11:00 | 18:00 | 12:00 |
+| Mar 17 | — | 11:00 PDF «4 conciliaciones» (E8) | — | — |
+| Mié 18 | 18:00 «4 conciliaciones antes de diciembre» (E8, E9) | — | 18:00 | 12:00 |
+| Jue 19 | 18:00 Academy: toma física en 4 pasos (E9) | 11:00 | 18:00 (contenido de marca) | 12:00 |
+| Sáb 21 | 12:00 Diagnóstico «¿Tu cierre de año ya tiene un plan?» | 11:00 | 18:00 (contenido de marca) | 12:00 |
+
+Tarea de comunidad: responder por DM cada «CIERRE» (mié 18) y cada «DIAGNÓSTICO» (sáb 21) con el guion de WhatsApp del plan.
+
+### Guiones de video para el equipo (mié 18 y vie 20, 19:00; IG, FB, TikTok y YouTube Shorts)
+**V3 · Mié 18 · Pregúntale al CPA: «¿Qué pasa si mi 606 no cuadra con mi IT-1?».** 0–2.4 s cortinilla · 2.4–5 s texto en pantalla «Pregúntale al CPA» · 5–23 s socio a cámara: «La DGII cruza lo que reportas en el 606 y el 607 con tu IT-1. Si encuentras una diferencia, corrígela cuanto antes: revisa el comprobante, ajusta el formato o rectifica la declaración. Mientras antes, más simple.» · 23–28 s «¿Tienes una pregunta fiscal? Escríbela y la respondemos en video» · 1.5 s cierre de marca.
+**V4 · Vie 20 · Mito o Realidad: «Si pago el ITBIS un día tarde, no pasa nada».** 0–2.4 s cortinilla · 2.4–5 s «¿Mito o realidad?» · 5–22 s socio a cámara: «Mito. Desde el día siguiente al vencimiento se generan recargos e intereses. Hoy vence el IT-1 de octubre: si no llegas, declara y paga lo antes posible, porque mientras antes, menor el costo.» · 22–27 s «Guárdalo y síguenos: un dato fiscal cada semana» · 1.5 s cierre de marca.
+
+### Textos para LinkedIn personal de Gilberto (semana 16–22 nov)
+1. **Lun 16.** «Hoy vencen los Formatos 606 y 607 de octubre. Un consejo que repito a cada equipo contable: antes de enviarlos, compárenlos con el IT-1 que van a declarar el viernes. Si el 606 y el IT-1 no cuentan la misma historia, la DGII lo va a notar en sus cruces. Cinco minutos de revisión hoy ahorran semanas de aclaraciones después.»
+2. **Mar 17 (amplifica E8).** «Publicamos desde la página de PGAM Consulting una guía corta con las 4 conciliaciones que reviso primero en cualquier cierre: bancos, cuentas por cobrar, cuentas por pagar e ITBIS. Si su equipo solo puede hacer una esta semana, que sea la bancaria. ¿Cuál les toma más tiempo a ustedes?» (compartir el PDF de la página)
+3. **Jue 19.** «Desde la auditoría, la toma física de inventario es donde más se nota si una empresa tiene control o solo tiene sistema. Fecha de corte clara, conteo en parejas y cada ajuste documentado: con eso, el inventario de diciembre deja de ser una sorpresa. ¿Ya tienen fecha para la suya?»
