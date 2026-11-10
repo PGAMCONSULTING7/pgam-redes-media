@@ -261,3 +261,8 @@ Tarea de comunidad: responder por DM cada «CIERRE» (mié 18) y cada «DIAGNÓS
 - **Video de la Primera Reunión de Socios y Gerentes** (90 s vertical, comprimido a 44 MB en `2026-11/reunion-socios/`): programado hoy a las 19:00 como reel en Instagram + Facebook, video en TikTok y LinkedIn, y video en la galería de Google Business. YouTube no se programó porque el equipo ya lo subió.
 - **Etiquetas confirmadas por Gilberto:** usar siempre #pgamconsulting #cmrcatering #ryk_organico_artesanal (C-M-R; confirmado el 6 nov).
 - 16 fotogramas seleccionados del video (8 destacados) entregados en ZIP para las carpetas «REUNION SOCIOS 26» y «REUNION SOCIOS 26\Destacados» de OneDrive.
+
+### Añadido el 10 nov (a pedido de Gilberto)
+- **Himno institucional «Legado de Confianza»** (video de 3:02 recortado a 2:59.5 con fundido, para no pasar el límite de 3 min de los reels; 37 MB): programado el mar 10 a las 19:00 como reel en Instagram, video en Facebook, TikTok (con su audio original) y LinkedIn, y una versión de 30 s en la galería de Google Business. YouTube no, por indicación de Gilberto.
+- Lección del 6 nov: Google Business rechazó el video de 90 s (INVALID_ARGUMENT); solo acepta videos cortos (≤30 s). Siempre subir allí una versión de 30 s.
+- El carrusel de fotos de la reunión salió el dom 8 en todas las redes (TikTok con música automática, a elección de Gilberto).
