@@ -266,3 +266,68 @@ Tarea de comunidad: responder por DM cada «CIERRE» (mié 18) y cada «DIAGNÓS
 - **Himno institucional «Legado de Confianza»** (video de 3:02 recortado a 2:59.5 con fundido, para no pasar el límite de 3 min de los reels; 37 MB): programado el mar 10 a las 19:00 como reel en Instagram, video en Facebook, TikTok (con su audio original) y LinkedIn, y una versión de 30 s en la galería de Google Business. YouTube no, por indicación de Gilberto.
 - Lección del 6 nov: Google Business rechazó el video de 90 s (INVALID_ARGUMENT); solo acepta videos cortos (≤30 s). Siempre subir allí una versión de 30 s.
 - El carrusel de fotos de la reunión salió el dom 8 en todas las redes (TikTok con música automática, a elección de Gilberto).
+
+---
+
+## Viernes 13 de noviembre de 2026 · Semana 4 (6–12 nov)
+
+**Contexto.** Semana de la Primera Reunión de Socios y Gerentes (imagen vie 6, reel vie 6 19:00, carrusel dom 8), el himno «Legado de Confianza» (mar 10, 19:00) y, el dom 8 por la noche, 11 fotos del equipo publicadas directamente desde la app de Instagram (no desde Metricool). Piezas del plan: Constitución (vie 6), diagnóstico «¿Cuándo fue la última vez…?» (sáb 7), Lunes Fiscal retenciones (lun 9), emergencias 04 (mar 10), Mito o Realidad IT-1 en cero (mié 11, E6), encuesta LinkedIn (mié 11, E5), Academy «3 números» (jue 12). Último control de TikTok a las 10:00 (lun–jue). Datos de Metricool al 12 nov (Academy aún acumula). La semana 16–22 nov ya estaba programada; esta corrida programa **23–29 nov**.
+
+### Métricas (6–12 nov) vs. semana 3 (30 oct–5 nov)
+
+| Red | Seguidores | Alcance / vistas | Interacciones | vs. semana 3 |
+|---|---|---|---|---|
+| Instagram | 1,484 (+23; 34 ganados, 10 perdidos) | Alcance de cuenta 693 · vistas 3,048 · piezas gráficas del plan: 40.9 de alcance medio (fiscales 20) · fotos del equipo: 63–202 cada una | 11 comentarios (los primeros de la cuenta, todos en fotos del equipo) · 45 compartidos (imagen de la reunión) · reel de la reunión 115 de alcance y 18 interacciones | Alcance de cuenta 124 → 693 (×5.6); alcance por pieza gráfica 17.3 → 40.9 |
+| Facebook | 26 (+1) | 11 impresiones de feed · 68 vistas de contenido · 62 reproducciones de reels (himno 54) | 7 | Alcance 0 → primeras vistas, por video |
+| LinkedIn (página) | 36 (+1) | 66 impresiones (reunión: 21) | 14 clics | 45 → 66 (+47 %); clics 12 → 14 |
+| TikTok | 18 (+2) | 3,329 vistas en el período · 2,567 en 9 posts (285 por post) | 23 me gusta · 4 compartidos (himno) | 251 → 285 por post (+14 %) |
+| Google Business Profile | — | 0 vistas de publicaciones · 3 vistas de fotos | — | 4 semanas en 0 en publicaciones |
+| YouTube | 28 (+9) | 142 vistas · 1 video (10 nov) | — | 51 → 142 vistas |
+
+Fallos operativos: (1) **Emergencias 04 no salió en TikTok** (mar 10, 10:00): segunda pieza de la serie de emergencias que falla en TikTok (la 03 tampoco salió). Revisar el error en el planificador de Metricool. (2) YouTube registra un video el 10 nov aunque el himno no se programó ahí: confirmar si lo subió el equipo.
+
+### Mejores y peor
+1. **Contenido del equipo (reunión de socios y fotos del dom 8).** IG: imagen de la reunión 69 de alcance y **45 compartidos**; carrusel 103; reel 115; las 11 fotos del equipo 63–202 cada una (≈1,075 de alcance sumado) con los primeros 11 comentarios de la cuenta. TikTok: video 405, imagen 378, himno 382 (4 compartidos). LinkedIn: la imagen de la reunión fue la mejor (21 impresiones). Las personas reales multiplican por 3–10 el alcance de las piezas gráficas.
+2. **Academy «3 números que mirar cada mes» (jue 12) · TikTok 462 vistas en un día** (la mejor pieza gráfica de la semana) y **Lunes Fiscal retenciones (lun 9) · TikTok 445.** Microlección y fecha concreta siguen siendo los dos formatos gráficos más fuertes.
+- **Peor: Mito o Realidad «IT-1 en cero» (mié 11, E6) · TikTok 31 vistas (la más baja de la cuenta), IG 15, 0 interacciones.** Una cita entre comillas sin dato ni fecha no detiene el scroll; el formato mito necesita a una persona hablando (guion V1 en video).
+
+### Aprendizajes
+1. **Las personas son el mayor acelerador.** El alcance de cuenta de IG se multiplicó ×5.6 por el contenido del equipo; las piezas fiscales quedan en ~20. Hay que meter rostros reales del equipo cada semana, también en piezas educativas.
+2. **En TikTok manda el tema, no la hora.** A las 10:00 esta semana: 313 de media (Lunes Fiscal 445, Academy 462, Mito 31); a las 18:00: 155 (Constitución, diagnóstico, carrusel). Con E3 (302 a las 18:00) la diferencia de hora no es concluyente. Se mantiene 18:00 para no mezclar variables y se juzga por tema.
+3. **Video y Facebook:** Facebook solo se movió con video (62 reproducciones de reels frente a 11 impresiones de feed). Los guiones de video del equipo son la palanca para Facebook; las imágenes allí casi no rinden.
+
+### Resultado de experimentos anteriores
+- **E5 (encuesta LinkedIn, mié 11).** Preliminar **negativo**: 3 impresiones al 12 nov (media de la página ≈7 por post). Metricool no expone los votos: pedir a Gilberto el resultado (la encuesta cierra el 18 nov) para publicar los resultados como se prometió.
+- **E6 (Mito o Realidad en imagen única).** **Mixto**: IG 15 de alcance frente a 5–13 de los carruseles (mejor); TikTok 31 frente a 72–183 de los carruseles (peor). Se descarta la imagen de mito; el mito queda para video.
+- **E7 (Google tipo foto, vie 13).** Publicado hoy; se evalúa el 20 nov. Señal temprana: las fotos de la reunión sumaron 3 vistas en la semana; las publicaciones, 0.
+- **E3 (TikTok 18:00).** Ver aprendizaje 2: se mantiene, sin evidencia fuerte a favor.
+- **E8 y E9** se publican del 17 al 19 nov: se evalúan el 20 nov.
+
+### Experimentos para la semana 23–29 nov
+- **E10 · Rostro del equipo.** Pieza con la foto real del equipo «Detrás de cada cierre hay un equipo» (vie 27) en IG/FB, LinkedIn y TikTok. Control: alcance medio de las piezas gráficas fiscales (IG ≈20; TikTok 285). Métrica: alcance y compartidos en IG, vistas en TikTok, impresiones en LinkedIn.
+- **E11 · Ejemplo con números.** Regalía pascual (mié 25) con un caso calculado en RD$ en la imagen (y 3 páginas en PDF para LinkedIn). Control: microlecciones en lista (Academy 3 números, toma física). Métrica: guardados y compartidos en IG, vistas en TikTok, clics del PDF en LinkedIn.
+
+### Vencimientos verificados para el Lunes Fiscal del 23 nov
+- Semana 23–29 nov: sin vencimientos generales (solo impuestos sectoriales: bancas, hidrocarburos, cheques/transferencias el vie 27). Fuente: siemprealdia.co «Obligaciones tributarias en noviembre» (29 oct 2026).
+- Diciembre: TSS jue 3 (tercer día hábil); IR-17 e IR-3 jue 10; Formatos 606/607 y anticipos del ISR mar 15; ITBIS (IT-1) e ISC lun 21 (el 20 cae domingo). Fuente: Calendario tributario 2026 (siemprealdia.co, basado en el Calendario del contribuyente 2026 de la DGII).
+- Regalía pascual: a más tardar el 20 de diciembre (domingo este año); salario ordinario del año ÷ 12, sin horas extra ni participación en beneficios; proporcional al tiempo trabajado; exenta de ISR (lo que exceda lo legal tributa) y no cotiza a la TSS. Fuentes: Código de Trabajo arts. 219–222 según siemprealdia.co (6 nov 2026) y revistamercado.do (16 oct 2026). No se publicaron montos de tope ni detalles de la Ley 30-26 (las fuentes se contradicen en el artículo).
+
+### Programado para 23–29 nov (Metricool, autoPublish)
+| Día | IG + FB | LinkedIn | TikTok | Google Business |
+|---|---|---|---|---|
+| Lun 23 | 12:00 Lunes Fiscal: tu agenda de diciembre | 11:00 | 18:00 | 12:00 |
+| Mié 25 | 12:00 Regalía pascual: cómo se calcula (E11) | 11:00 PDF 3 páginas (E11) | 18:00 | 12:00 |
+| Jue 26 | 12:00 Academy: presupuesto 2027 en 3 pasos (Diplomado) | 11:00 | 18:00 (contenido de marca) | 12:00 |
+| Vie 27 | 12:00 «Detrás de cada cierre hay un equipo» (E10) | 11:00 | 18:00 | — |
+| Sáb 28 | 12:00 Diagnóstico «Diciembre empieza el martes» | 11:00 | 18:00 (contenido de marca) | 12:00 |
+
+Tarea de comunidad: responder por DM cada «REGALÍA» (mié 25) con el ejemplo de cálculo y cada «DIAGNÓSTICO» (sáb 28) con el guion de WhatsApp.
+
+### Guiones de video para el equipo (mié 25 y vie 27, 19:00; IG, FB, TikTok y YouTube Shorts)
+**V5 · Mié 25 · Pregúntale al CPA: «¿Cuánto me toca de regalía?».** 0–2.4 s cortinilla · 2.4–5 s texto en pantalla «¿Cuánto me toca de regalía?» · 5–24 s socio a cámara con una hoja o calculadora: «Suma lo que ganaste de salario ordinario en el año y divídelo entre doce. Si entraste en abril con 45 mil al mes, son nueve meses: 405 mil entre 12, 33,750. Las horas extra no entran, y la regalía no paga ISR ni TSS.» · 24–28 s «Guárdalo y compártelo con tu equipo» · 1.5 s cierre de marca.
+**V6 · Vie 27 · «Así se prepara un cierre en PGAM» (contenido de equipo, E10 en video).** 0–2.4 s cortinilla · 2.4–5 s texto «Detrás de cada cierre hay un equipo» · 5–25 s tres tomas cortas de 5–6 s: un miembro del equipo conciliando un banco, otro revisando un 606, un socio en reunión con un cliente (sin datos visibles de clientes) · voz en off: «Conciliamos, revisamos y te explicamos cada número. Diciembre se prepara en noviembre.» · 25–29 s «¿Lo preparamos juntos? Escríbenos DIAGNÓSTICO» · 1.5 s cierre de marca. Pedir autorización a cada persona que salga.
+
+### Textos para LinkedIn personal de Gilberto (semana 23–29 nov)
+1. **Lun 23.** «Esta semana no vence nada general en la DGII, y eso es una oportunidad. Diciembre trae cinco fechas seguidas: TSS el 3, retenciones el 10, Formatos 606 y 607 el 15, la regalía pascual a más tardar el 20 y el IT-1 el 21. Las empresas que llegan tranquilas a enero son las que usan una semana como esta para adelantar conciliaciones.»
+2. **Mié 25 (amplifica E11).** «Cada año recibimos la misma pregunta: ¿cómo se calcula la regalía pascual? La regla es simple: el salario ordinario devengado en el año entre doce, sin horas extra. Lo que suele fallar es la base: comisiones, entradas a mitad de año o pagos por encima de lo legal, que sí tributan. Compartimos en la página de PGAM Consulting una guía con tres casos calculados.»
+3. **Vie 27 (amplifica E10).** «Hace dos semanas celebramos nuestra primera reunión de socios y gerentes. Lo que más agradezco de este equipo es algo que no sale en ningún estado financiero: la paciencia para explicarle a cada cliente sus números hasta que tengan sentido. Ese es el trabajo que se nota en diciembre.»
